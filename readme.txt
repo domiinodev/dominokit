@@ -3,7 +3,7 @@ Contributors: dominodev
 Donate link: https://www.zhaket.com/web/dominokit-plugin
 Tags: woocommerce, shamsi, out of stock, dominodev, dominokit
 Requires at least: 4.7
-Tested up to: 5.4
+Tested up to: 6.1.1
 Stable tag: 1.0.5
 Requires PHP: 7.4
 License: GPLv2 or later
